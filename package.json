@@ -1,0 +1,11 @@
+{
+  "name": "drivefy",
+  "version": "0.1.0",
+  "description": "A new driving pleasure.",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps",
+    "packages"
+  ]
+}
